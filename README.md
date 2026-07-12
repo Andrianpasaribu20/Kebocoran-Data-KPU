@@ -13,7 +13,7 @@ Disusun Oleh Kelompok 2:
 | Shandika Aldino Gunawan  | 4524210097   |
 | Fatih Miftahul Rizky  | 4524210107   |
 | Muhamad Ibnul Fida  | 4524210112   |
-| Andrian Marningot Pasaribu  | 4524210120   |
+| Andrian Marningot Pasaribu  | 4524210012   |
 </p>
 
 | No | Nama | NIM | Peran | Segmen yang Dikerjakan |
