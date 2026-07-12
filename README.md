@@ -506,9 +506,6 @@ https://journal.uii.ac.id/Lex-Renaissance/article/view/27219
 Lihawa, H., Rahim, E. I., & Ahmad. (2025). *Mekanisme pengamanan data yang diterapkan oleh Komisi Pemilihan Umum menurut Undang-Undang Nomor 27 Tahun 2022 tentang Perlindungan Data Pribadi*. **YUSTISI, 12**(2).  
 https://ejournal.uika-bogor.ac.id/index.php/YUSTISI/article/view/19918
 
-Pratama, A. B. (2021). *The landscape of data governance in Indonesia and the need for institutional reform*. **Data & Policy, 3**, e15.  
-https://doi.org/10.1017/dap.2021.14
-
 Setiawan, H. B., & Najicha, F. U. (2022). *Perlindungan data pribadi warga negara Indonesia terkait dengan kebocoran data*. **Jurnal Kewarganegaraan, 6**(1).  
 https://journal.upy.ac.id/index.php/pkn/article/view/2657
 
